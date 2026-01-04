@@ -18,8 +18,8 @@ The workflow follows a standard serverless pattern:
 3.  **Process:** Lambda (Python/Boto3) parses the event JSON and extracts metadata.
 4.  **Store:** Lambda writes the metadata item to a DynamoDB table.
 
-![Architecture Diagram](./path-to-your-architecture-image.png)
-*(Note: Replace this path with your actual image file)*
+![Architecture Diagram](./architecture-image.png)
+*(Note: )*
 
 ## ⚙️ Prerequisites
 
