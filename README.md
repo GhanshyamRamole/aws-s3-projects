@@ -19,7 +19,7 @@ The workflow follows a standard serverless pattern:
 4.  **Store:** Lambda writes the metadata item to a DynamoDB table.
 
 ![Architecture Diagram](./architecture-image.png)
-*(Note: )*
+*(Note: logic for project)*
 
 ## ⚙️ Prerequisites
 
